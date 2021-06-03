@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the paper, entituled, The case of the proprietors and refiners of rock-salt.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17162</idno><idno type="EEBO-CITATION">99893672</idno>
+  <idno type="VID">189478</idno>
+  <idno type="EEBO-PROQUEST">2264173099</idno>
+  
+            <idno type="STC">Wing A3429A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[52]</idno>
+            <idno type="STC">ESTC T146834</idno>
+            <idno type="PROQUEST">ocm99893672</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893672e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189478)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the paper, entituled, The case of the proprietors and refiners of rock-salt.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700? or 1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated 1700? by Wing, 1701? by ESTC.</note>
+                  <note>With a docket title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rock salt --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:189478:1"/>
+            <head>
+               <hi>An Answer to the Paper, entituled,</hi> The Case of the Proprietors and Refiners of Rock-Salt.</head>
+            <p>THE said Paper complains, That if the Clause shall pass for prohibiting the refining of Rock-Salt, at any Place but near the Rock-Pits, all the Refinerys of Rock Salt will be destroy'd.</p>
+            <p>To which it is answered, That if the Rock-Salt shall be permitted to go from the Pits, not only all the Makers of Salt from Brine, and the Makers of Salt from Sea-water will be ruined, but the Duty upon Salt, which is to pay the Interest of three Millions of Money lent to the Government, will be lost also; and all the People of <hi>England</hi> must then pay and make good that deficiency: For the Weight and various Drawbacks allowed to the Rock-Salt, are such and so many that it is not possible to prevent the Frauds any other way than by the method prescribed in the Bill. For instance, 75 <hi>l.</hi> of Rock-Salt is reckon'd a Bushel, and pays 3 <hi>s.</hi> 4 <hi>d.</hi> at the Pit. 56 <hi>l.</hi> only is allow'd to a Bushel of Brine-Salt, and pays 3 <hi>s.</hi> 4 <hi>d.</hi> at the Works: and 56 <hi>l.</hi> of Rock-Salt melted in fresh Water, as hath been actually done at the Excise Office in <hi>London,</hi> will produce its own weight in white Salt; so that the Rock-Refiner has in weight 19 <hi>l.</hi> more for 3 <hi>s.</hi> 4 <hi>d.</hi> than the Brine Salt-Maker hath; and he ac<g ref="char:EOLhyphen"/>cordingly sells it, and it is used in <hi>specie</hi> without refining, and by doing so he reimburses himself one third of the Duty paid at the Pits, and so much is lost to the Revenue: Then he sets to refine some part of the said Salt-Rock, and that he may appear like a very honest Man, he calls for the Officer, and as the Act directs, in his Presence weighs out 20 Bushels, more or less, at 75 <hi>l.</hi> to the Bushel, and puts it into large Cesterns of Water for melting the same; and the Officer allows him a Drawback for it. But it requiring a very long time (<hi>viz.</hi>) 2 or 3 days to be dissolved when the Officer is in Bed, or otherwise absent, one half of the said Rock is taken out of the Cesterns, and conveyed back to the Warehouse; and this practise is repeated till double the Duty paid at the Pits is drawn back upon the melting, which advantage the Brine Salt Maker hath no opportunity for, there not being any Draw<g ref="char:EOLhyphen"/>back allowed to that Salt, but upon Exportation only; and the Bill does sufficiently provide against the Cheats that have been too much practised therein, to the loss of the Revenue, and derriment to the fair Trader. But if what's propos'd by the Author of the said Paper was allow'd of (<hi>viz.</hi>) That the Brine as well as the Rock should be charged with the Duty at the Pits, there must be a Drawback allow'd upon the boyling thereof; and then indeed the Brine Salt-Makers will easily find ways and means to defeat the Duty as well as the Rock Refiners.</p>
+            <p>The said Paper astirms, that the Rock is not refined in any Creeks or secret Places, but in great Towns, and the Excise Officer there employ'd, may Collect the Duty without any additional Charge in Collecting thereof; that this is not true the Margin of the Paper does sufficiently discover, where <hi>Helbre</hi> and <hi>Hyde</hi> in <hi>Cheshire, Peelstouder</hi> in <hi>Lancashire,</hi> and <hi>Grane</hi> in <hi>Kent</hi> are mentioned as Refinerys of Rock-Salt, and a Thousand such will be set up if it is not limited to be Refined only at the Pits; for if it once goes from thence it is impossible to confine it to any bounds.</p>
+            <p>The said Paper suggests further, that if the Rock-Salt is limited only to the Pits it will be unprofitable to Refine it, which is also not true; for the Rock is Refined by making a Brine from it, and by letting Water stay in the Pit, it will produce the stronger Brine, which will be brought up by a small labour of pumping, and save the Charge of digging the Rock and winding it up. And moreover, even according to the Assertion laid down in the said Paper, Salt refined from Rock Salt sells dearer by Six-pence <hi>per</hi> Bushel than <hi>Newcastle</hi> Salt, whereas Salt made from Brine is never sold for more than 5 <hi>d. per</hi> Bushel at the Works.</p>
+            <p>The Paper also alledges, That if the Rock-Salt is limited only to the Pits, the Brine Propietors will be the only Manufacturers of Salt, and will then have it in their Power to set what Rates they please thereon, which is totally impossible. For in the first place, the Rock-Pits will become Brine-Pits (as some of them have done) and even they will afford such plenty of Salt as would supply more then half the Kingdom. But in the next place, there are now so very many Brine-Pits in <hi>Cheshire,</hi> in <hi>Staffordshire,</hi> and in <hi>Worcestershire,</hi> besides the very many Salt-Works which are in the Bishoprick of <hi>Durham</hi> and <hi>Northumberland,</hi> and some also at <hi>Port-Sea</hi> and <hi>Limington,</hi> that the only contention is, and always will be, who shall gain most Customers by selling cheapest; but besides that, the Justices of Peace have a Controuling Power over them to set what Prices they please upon Salt.</p>
+            <p>The Author of the Paper goes on in commendation of his Salt made from Rock Salt, above all other Salt what<g ref="char:EOLhyphen"/>soever, but it will appear that the Swans in his own Eyes, are meer Geese in others.</p>
+            <p>For the Brine being impregnated with the most acute saline spiritual part of the Rock, partakes not of that noxious crassid part which always subsides and remains with the Rock, and is of a reddish Colour, and in which great quantity of Bittern is contained; and therefore the Author is very much out in that part of his Philosophy, for the whole body of the Rock being taken up, and the Sand and Bittern contained therein being all mash'd together, the Salt made thereof must of necessity, and does abundantly partake of those hurtful qualitys, as several Merchants who have had their Fish and Provisions spoiled therewith do testify: but the Author of the said Paper shews him<g ref="char:EOLhyphen"/>self to be very little skilled in the true nature of Salt, by his two last Paragraphs, for first he says the Dutch have by several Laws strictly injoyn'd the use of Resined Salt, (which Refined Salt he may easily inform himself is always made of Salt from Sea-Water) and yet in the very next Paragraph discommends all Salt (and in particular <hi>Newcastle</hi>) which is made of Sea-water; but to give him a little better Instruction in the nature of Brine-Salt, <hi>Newcastle</hi>-Salt, <hi>Port-Sea, Limington</hi> and <hi>Dutch</hi>-Salt, he is referr'd to the Book writ by Mr. <hi>Collins,</hi> entituled, <hi>Salt and Fishery,</hi> and there he will find that the Salt discommended as the worst Salt, and as having the most noxious quality of Sand and Bittern, is that Salt which is made from the Sea-water, and granulated by the heat of the Sun, and so used without boyling it up with Fire; and that's the Salt which the Dutch must not use for their Herrings: but the Salt made from the Brine-Springs, and Salt made with Fire from Sea-water, are by that Author (who was a good judge of that Matter) recommended as the best for all uses.</p>
+            <p>The Author's Conclusion is a wild random Estimate of what the Refinerys have cost; and hopes the Honourable House will not pass that Clause which destroys the use of them, without giving some satisfaction: By which 'tis plain they are so hurtful to the Duty on Salt, that himself thinks they will not be longer allow'd of.</p>
+            <p>The Answer therefore to him is, That the Rock-Refiners having cheated the Nation of ten times more Money than all their Cost about their Refinerys amount to, they are too well paid if they are allow'd to go away unpunished.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:189478:2"/>
+            <p>
+               <hi>An Answer to the Paper Entituled,</hi> The Case of the Proprietors and Re<g ref="char:EOLhyphen"/>finers of Rock-Salt.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
